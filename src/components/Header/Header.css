@@ -1,0 +1,10 @@
+.navbar-light .navbar-nav .nav-link {
+    color:black;
+    font-size: 18px;
+    text-align: center;
+    
+} 
+.navbar-light .navbar-nav .nav-link.active{
+    font-weight: bold;
+    color: palevioletred;
+}

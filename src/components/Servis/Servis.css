@@ -1,0 +1,38 @@
+.servis__center {
+    text-align: center;
+    text-transform: uppercase;
+    color: palevioletred;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.servis__title {
+   
+    position: relative;
+    display: inline;
+    padding: 0px 10px;
+   
+}
+.servis__title::after{
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+    width: 100px;
+    height: 3px;
+    background: palevioletred;
+   
+    
+}
+.servis__title::before{
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    transform: translateY(-50%);
+    width: 100px;
+    height: 3px;
+    background: palevioletred;
+   
+    
+}

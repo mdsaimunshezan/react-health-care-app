@@ -1,0 +1,12 @@
+.detalse__tilte {
+    color: palevioletred;
+    font-size: 40px;
+}
+
+.detalse__sercis {
+    width: 100%;
+    background: palevioletred;
+    padding: 10px;
+    color: white;
+    border: none;
+}

@@ -1,0 +1,15 @@
+.servis__btn{
+    padding: 10px 30px;
+    background: palevioletred;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.servis__header {
+    color: palevioletred;
+    font-size: 30px;
+
+}
+.servis__text {
+    text-align: justify;
+}

@@ -1,0 +1,24 @@
+.doctor__title {
+    font-size: 40px;
+    color: palevioletred;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+.doctor {
+    margin-top: 100px;
+}
+.doctor__name {
+    color: palevioletred;
+    font-size: 30px;
+}
+.doctor__position{
+    font-size: 20px;
+}
+.doctor__btn {
+    padding: 10px;
+    background: palevioletred;
+    border: none;
+    color: white;
+}
